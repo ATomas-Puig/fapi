@@ -7,7 +7,7 @@
     "video" : "video.mp4",
     "archivo" : "archivo.pdf",
     "tiempo" : 5
-  },
+  }
   {
     "id": 124,
     "nombre": "tal i cla",
@@ -16,7 +16,7 @@
     "video" : "video.mp4",
     "archivo" : "archivo.pdf",
     "tiempo" : 5
-  },
+  }
   {
     "id": 125,
     "nombre": "tal i cla",
