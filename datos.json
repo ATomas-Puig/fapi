@@ -3,36 +3,66 @@
     "id": 123,
     "nombre": "tal i cla",
     "texto": "hofdlkds",
+    "imagen": "imagen.jpg",
+    "video" : "video.mp4",
+    "archivo" : "archivo.pdf",
+    "tiempo" : 5,
     "contactos": [
       {
-        
+        "id": 131,
+        "nombre" : "Huan",
+        "email" : "hola@adios.com",
+        "telefono" : "2311234412"
       },{
-        
+        "id": 132,
+        "nombre" : "Hose",
+        "email" : "adios@hola.com",
+        "telefono" : "23112344412"
       }
      ]
   },
   {
-    "id": 123,
+    "id": 124,
     "nombre": "tal i cla",
     "texto": "hofdlkds",
+    "imagen": "imagen.jpg",
+    "video" : "video.mp4",
+    "archivo" : "archivo.pdf",
+    "tiempo" : 5,
     "contactos": [
       {
-        
+        "id": 133,
+        "nombre" : "Huan",
+        "email" : "hola@adios.com",
+        "telefono" : "2311234412"
       },{
-        
+        "id": 134,
+        "nombre" : "Hose",
+        "email" : "adios@hola.com",
+        "telefono" : "23112344412"
       }
      ]
   },
   {
-    "id": 123,
+    "id": 125,
     "nombre": "tal i cla",
     "texto": "hofdlkds",
+    "imagen": "imagen.jpg",
+    "video" : "video.mp4",
+    "archivo" : "archivo.pdf",
+    "tiempo" : 5,
     "contactos": [
       {
-        
+        "id": 135,
+        "nombre" : "Huan",
+        "email" : "hola@adios.com",
+        "telefono" : "2311234412"
       },{
-        
+        "id": 136,
+        "nombre" : "Hose",
+        "email" : "adios@hola.com",
+        "telefono" : "23112344412"
       }
      ]
-  }
+  },
 ]
