@@ -1,8 +1,38 @@
 [
-  "message": {
-    "texto": "hola",
-    "imagen": "hhttp/&fjdskf.jpg",
-    
+  {
+    "id": 123,
+    "nombre": "tal i cla",
+    "texto": "hofdlkds",
+    "contactos": [
+      {
+        
+      },{
+        
+      }
+     ]
+  },
+  {
+    "id": 123,
+    "nombre": "tal i cla",
+    "texto": "hofdlkds",
+    "contactos": [
+      {
+        
+      },{
+        
+      }
+     ]
+  },
+  {
+    "id": 123,
+    "nombre": "tal i cla",
+    "texto": "hofdlkds",
+    "contactos": [
+      {
+        
+      },{
+        
+      }
+     ]
   }
-
 ]
