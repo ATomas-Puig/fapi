@@ -6,7 +6,7 @@
     "imagen": "imagen.jpg",
     "video" : "video.mp4",
     "archivo" : "archivo.pdf",
-    "tiempo" : 5,
+    "tiempo" : 5
   },
   {
     "id": 124,
@@ -15,7 +15,7 @@
     "imagen": "imagen.jpg",
     "video" : "video.mp4",
     "archivo" : "archivo.pdf",
-    "tiempo" : 5,
+    "tiempo" : 5
   },
   {
     "id": 125,
@@ -24,6 +24,6 @@
     "imagen": "imagen.jpg",
     "video" : "video.mp4",
     "archivo" : "archivo.pdf",
-    "tiempo" : 5,
+    "tiempo" : 5
   },
 ]
