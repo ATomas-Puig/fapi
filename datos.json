@@ -1,7 +1,7 @@
 [
   {
     "id": 123,
-    "nombre": "tal i cla",
+    "nombre": "Mensaje 1",
     "texto": "hofdlkds",
     "imagen": "imagen.jpg",
     "video" : "video.mp4",
@@ -10,7 +10,7 @@
   },
   {
     "id": 124,
-    "nombre": "tal i cla",
+    "nombre": "Para Belal",
     "texto": "hofdlkds",
     "imagen": "imagen.jpg",
     "video" : "video.mp4",
@@ -19,7 +19,7 @@
   },
   {
     "id": 125,
-    "nombre": "tal i cla",
+    "nombre": "¡Ey!",
     "texto": "hofdlkds",
     "imagen": "imagen.jpg",
     "video" : "video.mp4",
