@@ -6,7 +6,19 @@
     "imagen": "imagen.jpg",
     "video" : "video.mp4",
     "archivo" : "archivo.pdf",
-    "tiempo" : 5
+    "tiempo" : 5,
+    "contactos": [
+      {
+        "nombre":  "elon musk",
+        "email": "elon@musk",
+        "telefono": "654-45-45"
+      },
+      {
+        "nombre":  "elon musk2",
+        "email": "elon@musk2",
+        "telefono": "654-45-4522"
+      }
+    ]
   },
   {
     "id": 127,
@@ -15,7 +27,14 @@
     "imagen": "imagen.jpg",
     "video" : "video.mp4",
     "archivo" : "archivo.pdf",
-    "tiempo" : 5
+    "tiempo" : 5,
+     "contactos": [
+      {
+        "nombre":  "elon musk333",
+        "email": "elon@musk33",
+        "telefono": "654-45-43333"
+      }
+    ]
   },
   {
     "id": 128,
@@ -24,6 +43,18 @@
     "imagen": "imagen.jpg",
     "video" : "video.mp4",
     "archivo" : "archivo.pdf",
-    "tiempo" : 5
+    "tiempo" : 5,
+     "contactos": [
+      {
+        "nombre":  "elon musk5656",
+        "email": "elon@musk666",
+        "telefono": "654-45-45"
+      },
+      {
+        "nombre":  "elon musk87892",
+        "email": "elon@musk2",
+        "telefono": "654-45-45227976"
+      }
+    ]
   }
 ]
