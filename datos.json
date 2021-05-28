@@ -1,11 +1,10 @@
 [
   {
     "id": 126,
-    "nombre": "Mensaje 1",
+    "nombre": "Sobre mi fortuna",
     "texto": "hofdlkds",
     "imagen": "imagen.jpg",
     "video" : "video.mp4",
-    "archivo" : "archivo.pdf",
     "tiempo" : 5,
     "contactos": [
       {
@@ -24,8 +23,6 @@
     "id": 127,
     "nombre": "Para Belal",
     "texto": "hofdlkds",
-    "imagen": "imagen.jpg",
-    "video" : "video.mp4",
     "archivo" : "archivo.pdf",
     "tiempo" : 5,
      "contactos": [
@@ -38,7 +35,7 @@
   },
   {
     "id": 128,
-    "nombre": "¡Ey!",
+    "nombre": "¡Ey, esto es importante!",
     "texto": "hofdlkds",
     "imagen": "imagen.jpg",
     "video" : "video.mp4",
